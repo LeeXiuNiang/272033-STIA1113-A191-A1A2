@@ -34,7 +34,7 @@ In this assignment, I am going to investigate a car loan then make a JAVA code t
 
 
 # Flow chart
-![Flow_chart](/Flow_Chart.png)
+![Flow_chart](/Flow_chart.png)
 
 # Screenshot of the output
 ![Outout](/Output.png)
